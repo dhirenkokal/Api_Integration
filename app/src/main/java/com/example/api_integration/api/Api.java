@@ -4,8 +4,8 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class Api {
-    public static final String BASE_URL = "https://api.unsplash.com/";
-    public static final String API_KEY = "AenXbeYDlN_qxGayMAMF1e19vhVxCxJvz7PJw_G-5JE";
+    public static final String BASE_URL = "YOUR_BASE_URL";
+    public static final String API_KEY = "YOUR_API_KEY";
 
     public static Retrofit retrofit = null;
 
